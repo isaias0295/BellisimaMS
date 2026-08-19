@@ -252,7 +252,7 @@ a:hover {
 @media (max-width: 991.98px) {
   #mainNav.nav-scrolled,
   #mainNav {
-    background: rgba(255, 247, 251, 0.97);
+    background: var(--rosa-bmi);
   }
   .navbar-collapse {
     margin-top: 1rem;
